@@ -1,2 +1,0 @@
-# stock-app
-stock-app
