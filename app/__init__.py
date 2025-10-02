@@ -1,0 +1,1 @@
+"""Stock portfolio application package."""
